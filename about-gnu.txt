@@ -1,8 +1,7 @@
 About the GNU Operating System
 
 The name “GNU” is a recursive acronym for “GNU's Not Unix!”; it is pronounced as one syllable with a hard g.
-
-[Other historical and general articles about GNU.]
+ 
 
 GNU was launched by Richard Stallman (rms) in 1983, as an operating system which would be put together by people working together for the freedom of all software users to control their computing. rms remains the Chief GNUisance today.
 
